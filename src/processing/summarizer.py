@@ -1,0 +1,1 @@
+# Resumir texto con LLM (OpenAI/Gemini) 
